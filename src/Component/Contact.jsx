@@ -10,12 +10,12 @@ const Contact = () => {
   const [formData, setFormData] = useState({
     email: '',
     message: '',
-  });
+  }); 
 
   // Initialize AOS (Animate On Scroll) for animations
   useEffect(() => {
     Aos.init({ duration: 2000 });
-  }, []);
+  }, []); 
 
   // Handle form input changes
   const handleChange = (e) => {

@@ -58,7 +58,7 @@ const Home = () => {
 
               href={resumePDF}  // Link to the imported PDF file
               target="_blank"
-              className='bg-info border rounded text-white mt-4 px-3 py-1 animate-fadeIn'
+              className='bg-info border rounded text-white mt-4 px-3 mx-3 py-1 animate-fadeIn'
               >
               Resume
             </Button>

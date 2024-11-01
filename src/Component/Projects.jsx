@@ -7,8 +7,8 @@ import "aos/dist/aos.css";
 
 const Projects = () => {
     const projectList = [
-        { title: 'Portfolio Website', description: 'A personal portfolio website to showcase my skills, projects, and experience. Built with React.js, Bootstrap, and Sass.', imgSrc: img, Url: "https://www.johndoe.dev" },
-        { title: 'logisics Managemnet', description: 'Logistics management involves the efficient coordination of the movement, storage, and flow of goods from suppliers to customers. It ensures cost-effective transportation, inventory control, and timely delivery to meet customer needs.', imgSrc: img1, Url: "https://github.com/johndoe/ecommerce-platform" },
+        { title: 'Portfolio Website', description: 'A personal portfolio website to showcase my skills, projects, and experience. Built with React.js, Bootstrap, and Sass.', imgSrc: img, Url: "https://github.com/Ajeem0908/my-portfolio" },
+        { title: 'logisics Managemnet', description: 'Logistics management involves the efficient coordination of the movement, storage, and flow of goods from suppliers to customers. It ensures cost-effective transportation, ', imgSrc: img1, Url: "https://github.com/Ajeem0908/Courier-Shop" },
         { title: 'Real-Time Chat Application', description: 'A real-time chat application with private and group chat functionalities. Developed using Vue.js, Socket.io, and Node.js.', imgSrc: img, Url: "https://github.com/johndoe/chat-app" }
         // Add more projects here
     ];
