@@ -52,14 +52,14 @@ const Skill = () => {
           </Card>
         </Col>
 
-        {/* REST API Section */}
+        {/* FASTAPI Section */}
         <Col md={4} className="mb-4">
           <Card data-aos="fade-up" style={{ border: "none" }} className='py-2'>
             <Card.Body style={{ minHeight: "0px" }}>
               <FaServer size={50} className="mb-3" color="#28A745" />
-              <Card.Title>Django REST API</Card.Title>
+              <Card.Title>Fast API</Card.Title>
               <Card.Text style={{ color: "gray" }}>
-                Proficient in Django REST framework, creating scalable and secure RESTful APIs for seamless integration with front-end and third-party services.
+                Proficient in Django framework, creating scalable and secure FastAPIs for seamless integration with front-end and third-party services.
               </Card.Text>
             </Card.Body>
           </Card>
@@ -77,19 +77,7 @@ const Skill = () => {
             </Card.Body>
           </Card>
         </Col>
-
-        {/* MongoDB Section */}
-        <Col md={4} className="mb-4">
-          <Card data-aos="fade-up" style={{ border: "none" }} className='py-2'>
-            <Card.Body style={{ minHeight: "0px" }}>
-              <SiMongodb size={50} className="mb-3" color="#4DB33D" /> {/* MongoDB icon */}
-              <Card.Title>MongoDB</Card.Title>
-              <Card.Text style={{ color: "gray" }}>
-                Skilled in MongoDB, working with NoSQL databases for flexible and scalable data storage solutions in dynamic applications.
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </Col>
+        {/*HTML AND CSS */}
         <Col md={4} className="mb-4">
           <Card data-aos="fade-up" style={{ border: "none" }} className='py-2'>
             <Card.Body style={{ minHeight: "0px", backgroundcolor: "rgb(248, 255, 253)" }}>
@@ -115,17 +103,7 @@ const Skill = () => {
             </Card.Body>
           </Card>
         </Col>
-        <Col md={4} className="mb-4">
-          <Card data-aos="fade-up" style={{border:"none"}} className='py-2'>
-            <Card.Body style={{minHeight:"0px"}}>
-              <FaReact size={50} className="mb-3" color="#61DAFB" />
-              <Card.Title>React</Card.Title>
-              <Card.Text  style={{color:"gray"}}>
-                Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </Col>
+       
       </Row>
     </Container>
   );

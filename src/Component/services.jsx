@@ -12,14 +12,14 @@ const services = [
     icon: "bi bi-laptop",
   },
   {
-    title: "UI/UX Design",
-    description: "Designing user-friendly interfaces with a focus on accessibility and seamless user experience.",
-    icon: "bi bi-palette",
+    title: "Canvas",
+    description: "design logo, posters, video editing, with a hands-on experience, create a responsive user interaction.",
+    icon: "bi bi-hurricane",
   },
   {
-    title: "Courier shop Mangement",
-    description: "Logistics management involves the efficient coordination of the movement, storage, and flow of goods from suppliers to customers.timely delivery to meet customer needs. .",
-    icon: "bi bi-graph-up",
+    title: "E-commerce",
+    description: "Creating responsive and dynamic websites using a Django and Fastapi . ",
+    icon: "bi bi-bag",
   },
   {
     title: "Task Mangement Websites",
