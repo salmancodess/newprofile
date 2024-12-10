@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import img from "../../src/assets/86.png";
-import img1 from "../../src/assets/e-commerce-website-building-guide.png";
+import img1 from "../../src/assets/";
 import Aos from 'aos';
 import "aos/dist/aos.css";
 
 const Projects = () => {
     const projectList = [
-        { title: 'Portfolio Website', description: 'A personal portfolio website to showcase my skills, projects, and experience. Built with React.js, Bootstrap, and Sass.', imgSrc: img, Url: "https://github.com/Ajeem0908/my-portfolio" },
-        { title: 'logisics Managemnet', description: 'Logistics management involves the efficient coordination of the movement, storage, and flow of goods from suppliers to customers. It ensures cost-effective transportation, ', imgSrc: img1, Url: "https://github.com/Ajeem0908/Courier-Shop" },
-        { title: 'Real-Time Chat Application', description: 'A real-time chat application with private and group chat functionalities. Developed using Vue.js, Socket.io, and Node.js.', imgSrc: img, Url: "https://github.com/johndoe/chat-app" }
+        { title: 'Portfolio Website', description: 'A personal portfolio website to showcase my skills, projects, and experience. Built with HTML,CSS,JavaScript, Bootstrap, and Sass.', imgSrc: img, Url: "github.com" },
+        { title: 'Blog Application', description: 'create a blog Application build with Django .design professional, resuable templates,with SEO slugs.then implemented pagination,contact form,dynamic content., ', imgSrc: img1, Url: "https://github.com/salmancodess/blog-projects.git" },
+        { title: 'Task Management System', description: 'Develop a task management system using laravel,php,mysql for efficient task creation,editing,update,delete.m ', imgSrc: img, Url: "https://github.com/salmancodess/todo-list-." }
         // Add more projects here
     ];
 

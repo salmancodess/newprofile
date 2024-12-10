@@ -121,12 +121,12 @@
         <h1>Portfolio</h1>
         <hr />
         <div className="d-flex justify-content-center mb-3">
-              <a href="https://www.linkedin.com/in/ali-ajeem-a-3a3588255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">  <i className="bi bi-linkedin px-1"></i>
+              <a href="www.linkedin.com/in/mohamed-salman-python-django-javascript" target="_blank" rel="noopener noreferrer">  <i className="bi bi-linkedin px-1"></i>
               </a>   
-                <a href="github.com/Ajeem0908" target="_blank" rel="noopener noreferrer"> <i className="bi bi-github px-1"></i></a>
-                <a href="https://www.instagram.com/aji__ajeem?igsh=MmJqZG5rZXQ3b3Jt" target="_blank" rel="noopener noreferrer">  <i className="bi bi-instagram px-1"></i></a>
+                <a href="https://github.com/salmancodess" target="_blank" rel="noopener noreferrer"> <i className="bi bi-github px-1"></i></a>
+                <a href="https://www.instagram.com/_salman_2112" target="_blank" rel="noopener noreferrer">  <i className="bi bi-instagram px-1"></i></a>
                 
-                <a href="https://whatsapp.com/dl/" target="_blank" rel="noopener noreferrer"><i className="bi bi-whatsapp px-1"></i></a>
+                <a href="https://wa.me/7708593465" target="_blank" rel="noopener noreferrer"><i className="bi bi-whatsapp px-1"></i></a>
 
         </div>
         <div className="d-flex justify-content-center mb-3 flex-wrap">

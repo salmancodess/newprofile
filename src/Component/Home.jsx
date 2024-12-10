@@ -32,25 +32,25 @@ const Home = () => {
                     autoStart: true,
                     loop: true,
                     delay: 80,
-                    strings: "I'm ALI AJEEM A"
+                    strings: "I'm Mohamed Salman S"
                   }}
                 />
               </div>
               <h4 className='animate-fadeIn text-info ' style={{ fontWeight: "900", fontSize: "30px" }}>Full-Stack Developer...</h4>
               <div className='my-3 animate-rotateWave'>
-                <a href="https://www.linkedin.com/in/ali-ajeem-a-3a3588255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">  <i className="bi bi-linkedin px-1"></i>
+                <a href="www.linkedin.com/in/mohamed-salman-python-django-javascript" target="_blank" rel="noopener noreferrer">  <i className="bi bi-linkedin px-1"></i>
                 </a>
-                <a href="https://github.com/Ajeem0908/Ajeem0908" target="_blank" rel="noopener noreferrer"> <i className="bi bi-github px-1"></i></a>
-                <a href="https://www.instagram.com/aji__ajeem?igsh=MmJqZG5rZXQ3b3Jt" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/salmancodess" target="_blank" rel="noopener noreferrer"> <i className="bi bi-github px-1"></i></a>
+                <a href="https://www.instagram.com/_salman_2112" target="_blank" rel="noopener noreferrer">
                   <i className="bi bi-instagram px-1"></i>
                 </a>
-                <a href="https://whatsapp.com/dl/" target="_blank" rel="noopener noreferrer"><i className="bi bi-whatsapp px-1"></i></a>
+                <a href="https://wa.me/7708593465" target="_blank" rel="noopener noreferrer"><i className="bi bi-whatsapp px-1"></i></a>
 
 
               </div>
               <Button
                 className="bg-info border rounded text-white mt-4 px-3 py-1 animate-fadeIn"
-                onClick={() => window.location.href = "mailto:ajiajeem2001@gmail.com?subject=Job Opportunity&body=Hi, I would like to connect regarding..."}
+                onClick={() => window.location.href = "mailto:mohamedsalmanbca@gmail.com@gmail.com?subject=Job Opportunity&body=Hi, I would like to connect regarding..."}
               >
                 Hire Me!
               </Button>

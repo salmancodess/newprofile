@@ -32,14 +32,14 @@ const About = () => {
           <Card className="border-0" data-aos="zoom-in">
             <Card.Body className='p-0 mt-1'>
               <Card.Title>
-                <h3 className="mt-1 text-info">Hi, I'm Ajeem</h3>
+                <h3 className="mt-1 text-info">Hi, I'm Mohamed Salman S</h3>
               </Card.Title>
               <Card.Text className="text-muted">
                 <ul className="list-unstyled">
                   <li className='mt-3 custom-list-item'>
-                    "I'm a passionate full-stack developer with experience in building responsive and dynamic web applications. I specialize in React.js for front-end development and have strong proficiency in back-end technologies like Django, and databases such as MySQL and MongoDB. With a solid foundation in HTML, CSS, JavaScript, and RESTful API design, I deliver end-to-end solutions that are both scalable and efficient."                  </li>
+                    "I'm a passionate python developer with experience in building responsive and dynamic web applications in Django. I specialize front-end development and have strong proficiency in back-end technologies like Django, and databases such as Mysql. With a solid foundation in HTML, CSS, JavaScript, and FastAPI design, I deliver end-to-end solutions that are both scalable and efficient."                  </li>
                   <li className='mt-3 custom-list-item'>
-                    With a keen eye for design and a knack for problem-solving, I strive to build user-friendly and visually appealing interfaces. I love collaborating with teams and continuously learning new technologies to enhance my skills.
+                    With a keen eye for design and a knack for problem-solving , I strive to build user-friendly and visually appealing interfaces. I love collaborating with teams and continuously learning new technologies to enhance my skills and grow.
                   </li>
                   {/* <li className='mt-3 custom-list-item'>
                     When I'm not coding, you might find me exploring new tech trends, designing UI/UX prototypes, or enjoying a good book. Feel free to reach out if you'd like to discuss potential projects or opportunities!
